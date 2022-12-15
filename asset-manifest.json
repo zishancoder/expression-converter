@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/expression-converter/static/js/main.e711a554.js",
+    "index.html": "/expression-converter/index.html",
+    "main.e711a554.js.map": "/expression-converter/static/js/main.e711a554.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e711a554.js"
+  ]
+}
